@@ -338,7 +338,7 @@
 .alert-warning{
   background-color: #F35B3F;
 }
-.active{
+.navbar-item.active{
   border-bottom:2px solid #33C3F0;
   background-color: #f3f3f3;
 }
